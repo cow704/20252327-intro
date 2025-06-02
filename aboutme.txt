@@ -1,2 +1,5 @@
 Name:
+Number:
 Hobby:
+Interesting object:
+Goal in this vacation:

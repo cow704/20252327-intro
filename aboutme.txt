@@ -1,5 +1,5 @@
-Name:
-Number:
-Hobby:
-Interesting object:
-Goal in this vacation:
+Name: Paek kunwoo 
+College ID: 20252327 
+Hobby: Watching internet broadcasting which someone play games
+The part interested in: for now back end, ai dev, cyber security -> making os, programming language
+Goal of this vacation: making simple website + learning back end, network by video lectures and searching information of computer license
